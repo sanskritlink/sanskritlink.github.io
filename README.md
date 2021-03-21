@@ -1,3 +1,4 @@
 # sanskritlink.github.io
-- Push from Magit!!!
+- Push from Eshell
+
 
