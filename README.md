@@ -1,4 +1,7 @@
 # sanskritlink.github.io
-- Push from Eshell
+- Edited on Markor on mobile!
+- Pushed from Termux via ssh.
+
+
 
 
